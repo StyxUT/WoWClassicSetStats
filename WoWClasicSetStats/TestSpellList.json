@@ -1,0 +1,55 @@
+[
+  {
+    "name": "Chain Lightning - R4",
+    "WoWHeadId": 2863,
+    "rank": 4,
+    "low": 505,
+    "high": 564,
+    "mana": 544,
+    "castTime": 2,
+    "targets": 3,
+    "reduction": 30,
+    "cooldown": 6,
+    "coeficient": 71.42
+  },
+  {
+    "name": "Lightning Bolt - R10",
+    "WoWHeadId": 15208,
+    "rank": 10,
+    "low": 428,
+    "high": 477,
+    "mana": 238,
+    "castTime": 2,
+    "coeficient": 85.71
+  },
+  {
+    "name": "Lightning Bolt - R8",
+    "WoWHeadId": 10392,
+    "rank": 8,
+    "low": 291,
+    "high": 326,
+    "mana": 176,
+    "castTime": 2,
+    "coeficient": 85.71
+  },
+  {
+    "name": "Lightning Bolt - R5",
+    "WoWHeadId": 943,
+    "rank": 5,
+    "low": 131,
+    "high": 149,
+    "mana": 94,
+    "castTime": 2,
+    "coeficient": 85.71
+  },
+  {
+    "name": "Lightning Bolt - R4",
+    "WoWHeadId": 915,
+    "rank": 4,
+    "low": 88,
+    "high": 100,
+    "mana": 68,
+    "castTime": 2,
+    "coeficient": 85.71
+  }
+]

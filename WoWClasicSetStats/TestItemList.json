@@ -1,0 +1,129 @@
+[
+  {
+    "name": "Helmet of Ten Storms",
+    "slot": "head",
+    "intelect": 24,
+    "stamina": 20,
+    "spirit": 12,
+    "damage": 9,
+    "healing": 27,
+    "crit": 1
+  },
+  {
+    "name": "Chocker of Enlightenment",
+    "slot": "neck",
+    "intelect": 10,
+    "stamina": 9,
+    "spirit": 10,
+    "damage": 18
+  },
+  {
+    "name": "Deep Earth Spalders",
+    "slot": "shoulder",
+    "intelect": 12,
+    "stamina": 11,
+    "spirit": 7,
+    "damage": 40,
+    "healing": 0
+  },
+  {
+    "name": "Deep Woodlands Cloak",
+    "slot": "back",
+    "intelect": 9,
+    "stamina": 0,
+    "spirit": 0,
+    "damage": 12,
+    "healing": 12
+  },
+  {
+    "name": "Wildthorn Mail",
+    "slot": "chest",
+    "intelect": 0,
+    "stamina": 5,
+    "spirit": 11,
+    "damage": 34,
+    "healing": 0
+  },
+  {
+    "name": "Modest Armguards",
+    "slot": "wrist",
+    "intelect": 10,
+    "stamina": 0,
+    "spirit": 0,
+    "damage": 12,
+    "healing": 12
+  },
+  {
+    "name": "Hands of Power",
+    "slot": "hands",
+    "intelect": 6,
+    "stamina": 0,
+    "spirit": 6,
+    "damage": 26,
+    "healing": 26
+  },
+  {
+    "name": "Clutch of Andros",
+    "slot": "hands",
+    "intelect": 19,
+    "stamina": 9,
+    "spirit": 0,
+    "damage": 0,
+    "healing": 0,
+    "hit": 1
+  },
+  {
+    "name": "Skyshroud Leggings",
+    "slot": "legs",
+    "intelect": 8,
+    "stamina": 8,
+    "spirit": 0,
+    "damage": 34,
+    "healing": 34
+  },
+  {
+    "name": "Waterspout Boots",
+    "slot": "boots",
+    "intelect": 6,
+    "stamina": 0,
+    "spirit": 6,
+    "damage": 25,
+    "healing": 25
+  },
+  {
+    "name": "Eye of Orgrimmar",
+    "slot": "finger",
+    "intelect": 7,
+    "stamina": 0,
+    "spirit": 4,
+    "damage": 18,
+    "healing": 18
+  },
+  {
+    "name": "Band of Rumination",
+    "slot": "finger",
+    "MP5": 5,
+    "Crit": 1
+  },
+  {
+    "name": "Briarwood Reed",
+    "slot": "trinket",
+    "damage": 29,
+    "healing": 29
+  },
+  {
+    "name": "Eye of the Beast",
+    "slot": "trinket",
+    "crit": 2
+  },
+  {
+    "name": "Rod of the Ogre Magi",
+    "slot": "two-hand",
+    "intelect": 14,
+    "stamina": 11,
+    "spirit": 7,
+    "damage": 23,
+    "healing": 23,
+    "crit": 1
+  }
+]
