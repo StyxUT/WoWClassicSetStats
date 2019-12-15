@@ -11,7 +11,6 @@ namespace WoWClassicSetStats
         const int baseIntelect = 85;
         const int baseManaPool = 2515;
 
-
         public static int SumItemSetAttribute(List<Item> itemList, String attribute)
         {
             int attributeTotal = 0;
@@ -88,6 +87,5 @@ namespace WoWClassicSetStats
 
             return damage;
         }
-
     }
 }

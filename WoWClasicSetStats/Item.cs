@@ -23,6 +23,7 @@ namespace WoWClassicSetStats
 
         // resistances
         public int FireResistance { get; set; }
+        public int FrostResistance { get; set; }
         public int ShadowResistance { get; set; }
 
         // other

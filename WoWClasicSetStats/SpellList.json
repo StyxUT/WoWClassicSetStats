@@ -10,7 +10,7 @@
     "targets": 3,
     "reduction": 30,
     "cooldown": 6,
-    "coeficient":  71.42
+    "coeficient": 71.42
   },
   {
     "name": "Lightning Bolt - R10",
@@ -29,6 +29,16 @@
     "low": 291,
     "high": 326,
     "mana": 176,
+    "castTime": 2,
+    "coeficient": 85.71
+  },
+  {
+    "name": "Lightning Bolt - R7",
+    "WoWHeadId": 0,
+    "rank": 7,
+    "low": 235,
+    "high": 264,
+    "mana": 148,
     "castTime": 2,
     "coeficient": 85.71
   },

@@ -5,6 +5,8 @@
     "intelect": 24,
     "stamina": 20,
     "spirit": 12,
+    "frostResistance": 10,
+    "shadowResistance": 10,
     "damage": 9,
     "healing": 27,
     "crit": 1

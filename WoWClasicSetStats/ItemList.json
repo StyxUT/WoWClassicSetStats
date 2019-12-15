@@ -5,6 +5,8 @@
     "intelect": 24,
     "stamina": 20,
     "spirit": 12,
+    "frostResistance": 10,
+    "shadowResistance": 10,
     "damage": 9,
     "healing": 27,
     "crit": 1
@@ -35,6 +37,12 @@
     "damage": 12,
     "healing": 12
   },
+  //{
+  //  "name": "Chromatic Cloak",
+  //  "slot": "back",
+  //  "stamina": 10,
+  //  "crit": 1
+  //},
   {
     "name": "Wildthorn Mail",
     "slot": "chest",

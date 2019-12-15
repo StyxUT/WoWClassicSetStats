@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.28803.156
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WoWClassicSetStats", "WoWClasicSetBuilder\WoWClassicSetStats.csproj", "{BA7CA340-9ABA-416C-934A-9F349CE5186F}"
-EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "XUnitTestProject", "XUnitTestProject\XUnitTestProject.csproj", "{9F3570B0-B6B3-49D4-AEDA-74652AD3C48B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WoWClassicSetStats", "WoWClasicSetStats\WoWClassicSetStats.csproj", "{F4B58BBA-EA36-4D34-A380-C1136FE6F1FE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{BA7CA340-9ABA-416C-934A-9F349CE5186F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{BA7CA340-9ABA-416C-934A-9F349CE5186F}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{BA7CA340-9ABA-416C-934A-9F349CE5186F}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{BA7CA340-9ABA-416C-934A-9F349CE5186F}.Release|Any CPU.Build.0 = Release|Any CPU
 		{9F3570B0-B6B3-49D4-AEDA-74652AD3C48B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{9F3570B0-B6B3-49D4-AEDA-74652AD3C48B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9F3570B0-B6B3-49D4-AEDA-74652AD3C48B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9F3570B0-B6B3-49D4-AEDA-74652AD3C48B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F4B58BBA-EA36-4D34-A380-C1136FE6F1FE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4B58BBA-EA36-4D34-A380-C1136FE6F1FE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4B58BBA-EA36-4D34-A380-C1136FE6F1FE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4B58BBA-EA36-4D34-A380-C1136FE6F1FE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -8,8 +8,8 @@ namespace XUnitTestProject
 {
     public class ListFixture : IDisposable
     {
-        const String itemFile = @"C:\Users\StyxUT\source\repos\WoWClasicSetStats\WoWClasicSetStats\TestItemList.json";
-        const String spellFile = @"C:\Users\StyxUT\source\repos\WoWClasicSetStats\WoWClasicSetStats\TestSpellList.json";
+        const String itemFile = @"C:\Users\StyxUT\source\repos\WoWClassicSetStats\WoWClasicSetStats\TestItemList.json";
+        const String spellFile = @"C:\Users\StyxUT\source\repos\WoWClassicSetStats\WoWClasicSetStats\TestSpellList.json";
 
         public List<Item> ItemList { get; private set; }
         public List<Spell> SpellList { get; private set; }
